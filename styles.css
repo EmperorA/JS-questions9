@@ -1,0 +1,28 @@
+body{
+    max-width: fit-content;
+    text-align: center;
+}
+.content{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+h1{
+    text-align: center;
+}
+a{
+    color:rgb(42, 165, 89);
+    
+    
+}
+table{
+    background-color: antiquewhite;
+    border-radius: 2rem;
+}
+td{
+    border: 2px  solid green;
+  
+}
+
+p{
+    margin: 1px;
+}
